@@ -1,0 +1,6 @@
+myenv-suml-2/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+model2.h5
